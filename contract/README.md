@@ -1,0 +1,3 @@
+# Near Blog Contract
+
+Todo
